@@ -4,4 +4,4 @@ PRODUCT_PACKAGES += \
     bspcapability \
     camera.msm8916 \
     libshims_camera \
-    Snap
+    Camera2
