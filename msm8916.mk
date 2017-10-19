@@ -18,6 +18,6 @@
 $(call inherit-product, vendor/asus/msm8916-common/msm8916-common-vendor.mk)
 
 # Include products fragments
-include $(VENDOR_PATH)/products/*.mk
+include $(LOCAL_PATH)/products/*.mk
 
 
